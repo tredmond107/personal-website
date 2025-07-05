@@ -1,0 +1,97 @@
+/* Responsive Design */
+
+/* Tablet Styles */
+@media (max-width: 768px) {
+    .header-content {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .nav-links {
+        gap: 20px;
+    }
+
+    .welcome-section h2 {
+        font-size: 2em;
+    }
+
+    .welcome-text {
+        font-size: 1em;
+    }
+
+    .contribution-graph {
+        grid-template-columns: repeat(26, 1fr);
+    }
+
+    .contribution-day {
+        width: 8px;
+        height: 8px;
+    }
+}
+
+/* Mobile Styles */
+@media (max-width: 480px) {
+    .container {
+        padding: 0 15px;
+    }
+
+    .profile-section {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .social-links {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .nav-links {
+        gap: 15px;
+        flex-wrap: wrap;
+    }
+
+    .welcome-section h2 {
+        font-size: 1.8em;
+    }
+
+    .welcome-text {
+        font-size: 0.95em;
+    }
+
+    .contribution-graph {
+        grid-template-columns: repeat(20, 1fr);
+    }
+
+    .contribution-day {
+        width: 6px;
+        height: 6px;
+    }
+
+    main {
+        padding: 20px 0;
+    }
+
+    .welcome-section,
+    .github-section {
+        margin-bottom: 40px;
+    }
+
+    .months-labels {
+        font-size: 0.7em;
+    }
+}
+
+/* Large Desktop Styles */
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1400px;
+    }
+
+    .welcome-section h2 {
+        font-size: 3em;
+    }
+
+    .welcome-text {
+        font-size: 1.2em;
+    }
+}
