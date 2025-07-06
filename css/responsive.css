@@ -19,13 +19,9 @@
         font-size: 1em;
     }
 
-    .contribution-graph {
-        grid-template-columns: repeat(26, 1fr);
-    }
-
-    .contribution-day {
-        width: 8px;
-        height: 8px;
+    .github-chart img {
+        max-width: 100%;
+        height: auto;
     }
 }
 
@@ -58,15 +54,6 @@
         font-size: 0.95em;
     }
 
-    .contribution-graph {
-        grid-template-columns: repeat(20, 1fr);
-    }
-
-    .contribution-day {
-        width: 6px;
-        height: 6px;
-    }
-
     main {
         padding: 20px 0;
     }
@@ -76,8 +63,14 @@
         margin-bottom: 40px;
     }
 
-    .months-labels {
-        font-size: 0.7em;
+    .github-chart {
+        overflow-x: auto;
+        padding: 0 10px;
+    }
+
+    .github-chart img {
+        min-width: 300px;
+        max-width: none;
     }
 }
 
