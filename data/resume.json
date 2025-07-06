@@ -1,0 +1,80 @@
+{
+    "personal": {
+        "name": "Trevor Redmond",
+        "title": "Senior IT Support Professional",
+        "email": "your.email@example.com",
+        "phone": "(555) 123-4567",
+        "location": "Vancouver, British Columbia",
+        "website": "yourwebsite.com",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+    },
+    "summary": "Senior IT Support Professional with 5 years of progressive experience in fast-paced technical environments, including 1 year in a leadership role managing escalations and mentoring team members. Proven track record of delivering exceptional customer service while solving complex technical challenges for high-profile users across multiple locations. Demonstrated leadership through training and development of IT technicians across international teams spanning North America and Latin America. Excel at project management and critical problem resolution, consistently delivering solutions that minimize downtime and maximize user productivity. Known for reliability and commitment to excellence, consistently meeting tight deadlines while maintaining high service quality standards.",
+    "experience": [
+        {
+            "title": "Senior Support Technician, IT Operations",
+            "company": "SRK Consulting",
+            "date": "August 2024 - Present",
+            "description": "Lead incident response coordination and manage technical operations for a global consulting firm.",
+            "achievements": [
+                "Lead incident response coordination, mobilizing team resources and directing critical issue resolution under tight deadlines",
+                "Manage ticket queue delegation and provide technical guidance to junior team members on complex cases",
+                "Serve as primary escalation point for Tier 3 technical issues, leveraging deep company knowledge to deliver solutions",
+                "Participate in Senior Operations Team strategic planning, contributing to process improvements and team optimization",
+                "Represent IT Operations in executive-level Business Services meetings, interfacing directly with C-suite leadership",
+                "Lead technical projects including Intune automation development and Logic App implementations for operational efficiency",
+                "Mentor and develop junior technicians through hands-on guidance and knowledge transfer"
+            ]
+        },
+        {
+            "title": "Support Technician, IT Operations",
+            "company": "SRK Consulting",
+            "date": "October 2019 - August 2024",
+            "description": "Provided comprehensive technical support to North America users while monitoring global security operations.",
+            "achievements": [
+                "Resolved 20+ daily incidents and service requests ranging from Tier 1 account management to Tier 3 network outages",
+                "Provided technical support to North America users while monitoring and responding to global security alerts",
+                "Mentored new team members and served as go-to resource for complex technical questions",
+                "Implemented and documented new IT processes to improve team efficiency",
+                "Selected to provide training to South American IT technicians in Colombia (February 2023)",
+                "Presented webinars and training sessions on new systems including MFA and Office 365"
+            ]
+        },
+        {
+            "title": "Junior Network Administrator",
+            "company": "E-One Moli Energy",
+            "date": "June 2019 - September 2019",
+            "description": "Temporary position supporting network infrastructure and system migrations.",
+            "achievements": [
+                "Led Windows 7 to Windows 10 migration project, successfully upgrading 80+ workstations",
+                "Deployed system images and migrated user data using Windows Migration Wizard"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Information Technology Diploma",
+            "institution": "British Columbia Institute of Technology",
+            "date": "September 2017 - April 2019",
+            "details": "Specialized in scripting/programming (Python, JavaScript, PowerShell) and network/server administration. Developed web-based applications and gained hands-on experience with Windows and Linux systems."
+        }
+    ],
+    "skills": {
+        "Programming & Scripting": ["PowerShell", "Python", "JavaScript"],
+        "Cloud & Enterprise": ["Microsoft Azure", "Intune", "Office 365", "Entra ID", "SharePoint", "OneDrive"],
+        "Data & Analytics": ["PowerBI", "PowerQuery", "Python", "Jupyter Notebook"],
+        "Development": ["Microsoft Power Platform", "Power Automate", "Power Apps", "Logic Apps"],
+        "Systems & Network": ["Windows 10/11", "Network Infrastructure", "Multi-platform Ticketing Systems"],
+        "AI & Automation": ["ChatGPT", "Claude", "Open Web UI", "Process Automation"]
+    },
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Power Platform Fundamentals PL-900",
+            "date": "March 18, 2022"
+        },
+        {
+            "name": "Microsoft Certified: Power BI Data Analyst Associate PL-300",
+            "date": "June 20, 2023"
+        }
+    ]
+}
