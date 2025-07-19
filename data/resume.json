@@ -1,0 +1,68 @@
+{
+    "personal": {
+        "name": "Trevor Redmond",
+        "title": "Title",
+        "email": "your.email@example.com",
+        "phone": "(555) 123-4567",
+        "location": "Vancouver, British Columbia",
+        "website": "yourwebsite.com",
+        "linkedin": "linkedin.com/in/yourprofile",
+        "github": "github.com/yourusername"
+    },
+    "summary": "Summary",
+    "experience": [
+        {
+            "title": "Title",
+            "company": "Company",
+            "date": "Date range",
+            "description": "Description",
+            "achievements": [
+                "List of acheivements", "Another achievement", "etc"
+            ]
+        },
+        {
+            "title": "Title",
+            "company": "Company2",
+            "date": "Date range",
+            "description": "Description",
+            "achievements": [
+                "List of acheivements", "Another achievement", "etc"
+            ]
+        },
+        {
+            "title": "Title",
+            "company": "Company3",
+            "date": "Date range",
+            "description": "Description",
+            "achievements": [
+                "List of acheivements", "Another achievement", "etc"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Degree name",
+            "institution": "School name",
+            "date": "Date - Date",
+            "details": "Description"
+        }
+    ],
+    "skills": {
+        "Programming & Scripting": ["PowerShell", "Python", "JavaScript"],
+        "Cloud & Enterprise": ["Microsoft Azure", "Intune", "Office 365", "Entra ID", "SharePoint", "OneDrive"],
+        "Data & Analytics": ["PowerBI", "PowerQuery", "Python", "Jupyter Notebook"],
+        "Development": ["Microsoft Power Platform", "Power Automate", "Power Apps", "Logic Apps"],
+        "Systems & Network": ["Windows 10/11", "Network Infrastructure", "Multi-platform Ticketing Systems"],
+        "AI & Automation": ["ChatGPT", "Claude", "Open Web UI", "Process Automation"]
+    },
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Power Platform Fundamentals PL-900",
+            "date": "March 18, 2022"
+        },
+        {
+            "name": "Microsoft Certified: Power BI Data Analyst Associate PL-300",
+            "date": "June 20, 2023"
+        }
+    ]
+}
